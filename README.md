@@ -1,5 +1,5 @@
 # Real-Estate-Dapp
-Real Estate DApp Overview This decentralized application will act as a marketplace where users can buy and sell properties. Each property will be represented as an NFT on the Ethereum blockchain, providing a secure, immutable record of ownership and transaction history.This decentralized application (DApp) automates processes like payments, ownership transfers, and property management using smart contracts, ensuring transparency and immutability.
+Real Estate DApp Overview This decentralized application will act as a marketplace where users can buy and sell properties. providing a secure, immutable record of ownership and transaction history.This decentralized application (DApp) automates processes like payments, ownership transfers, and property management using smart contracts, ensuring transparency and immutability.
 
 ---
 
